@@ -1,0 +1,2 @@
+//  MARK: String Interpolation
+"welcome.screen.greetings" = "Hello, %@!";
